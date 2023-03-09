@@ -6,7 +6,7 @@
 
 <br/>
 
-## [My_Folio_link](https://shubhamgaur277.netlify.app/) 🔗
+## [My_Folio_link](https://shubhamgaurs.netlify.app/) 🔗
 
 <div align="center">
   <img src="https://github.com/ShubhamGaur-277/My-portfolio/blob/master/assets/demo.gif" alt="My_Folio Demo" width="100%" />
